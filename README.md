@@ -11,5 +11,5 @@
 - :envelope: augustojsouza1@gmail.com
 - :bulb: https://www.linkedin.com/in/augustojs1/
 
-
+[![Augusto's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/augustojs1/github-readme-stats)
 
