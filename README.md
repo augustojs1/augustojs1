@@ -9,4 +9,4 @@
 - 📫 How to reach me:
 - :envelope: augustojsouza1@gmail.com
 - :bulb: https://www.linkedin.com/in/augustojs1/
-- :desktop_computer: ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+- :desktop_computer:     ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
