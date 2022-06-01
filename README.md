@@ -1,6 +1,6 @@
 ## Hi there, i am Augusto Souza! 👋
 
-- 🔭 I’m currently working at PIBE developing a web application focused on
+- 🔭 I’m currently working at PIBE as a Front-End Web Developer developing a web application focused on
 uniting retail, wholesale and franchises on the same platform
 for buying, selling and other business operations using Vue.js 2.
 - 🌱 I’m currently learning Nest.js and Next.js to create modern and scalable web applications.
